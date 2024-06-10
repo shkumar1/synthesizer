@@ -39,5 +39,5 @@ gpt-synthesizer-streamlit = "gpt_synthesizer.run_app:main"
 
 [tool.setuptools]
 packages = ["gpt_synthesizer"]
-[tool.poertry]
+[tool.poetry]
 
