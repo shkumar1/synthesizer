@@ -40,4 +40,8 @@ gpt-synthesizer-streamlit = "gpt_synthesizer.run_app:main"
 [tool.setuptools]
 packages = ["gpt_synthesizer"]
 [tool.poetry]
+name = "gpt-synthesizer"
+version = "0.1.0"
+description = ""
+authors = ["SK test@gmail.com>"]
 
