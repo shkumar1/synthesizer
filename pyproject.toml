@@ -43,5 +43,5 @@ packages = ["gpt_synthesizer"]
 name = "gpt-synthesizer"
 version = "0.1.0"
 description = ""
-authors = ["SK test@gmail.com>"]
+authors = ["S K sk@gmail.com>"]
 
